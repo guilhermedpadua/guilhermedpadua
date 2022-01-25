@@ -1,6 +1,5 @@
 ### Olá eu sou o Guilherme de Pádua!
 
-Here are some ideas to get you started:
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em HTMl, CSS e Js. E iniciando os estudos em React.
 <div align="center">
