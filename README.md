@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme de Pádua!
+### Olá, eu sou o Guilherme de Pádua!
 
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em HTMl, CSS e Js. E iniciando os estudos em React.
